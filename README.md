@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**marahimimokarram/marahimimokarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mina Rahimi, a Student passionate about creating impactful solutions.  
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: .NET 8 and Docker  
+- 💻 Interests: Web Development, AI, and Networking  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+- Languages: C#, JavaScript, Python  
+- Frameworks: React, ASP.NET Core  
+- Tools: Git, Visual Studio, Docker  
+
+## Fun Facts  
+- 🎮 Gamer | 📚 Bookworm  
+
+## Connect with Me  
+- 📫 [Email](mailto:S1149474@student.wittenborg.eu) | [LinkedIn](https://www.linkedin.com/in/mina-rahimi-mokarram-613833281/)
